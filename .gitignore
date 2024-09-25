@@ -1,0 +1,5 @@
+cefr_classifier/assets-merlin*
+cefr_classifier/assets-miei*
+setup.py
+*__pycache__*
+.vscode*

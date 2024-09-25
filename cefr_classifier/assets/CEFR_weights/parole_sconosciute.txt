@@ -1,0 +1,61 @@
+'A2 oggi_in_aula_2.txt' - superdieta
+'A2 oggi_in_aula_35.txt' - nomofobia
+'A2 oggi_in_aula_35.txt' - phone
+'B1 oggi_in_aula_15.txt' - air
+'B1 oggi_in_aula_15.txt' - road
+'B1 oggi_in_aula_15.txt' - the
+'B1 oggi_in_aula_29.txt' - profit
+'B1 oggi_in_aula_30.txt' - to
+'B1 oggi_in_aula_30.txt' - upcycling
+'B1 oggi_in_aula_42.txt' - the
+'B1 oggi_in_aula_54.txt' - center
+'B1 oggi_in_aula_54.txt' - iper
+'B1 oggi_in_aula_54.txt' - of
+'B1 oggi_in_aula_54.txt' - part
+'B1 oggi_in_aula_59.txt' - er
+'B1 oggi_in_aula_59.txt' - wall
+'B2 oggi_in_aula_11.txt' - and
+'B2 oggi_in_aula_11.txt' - of
+'B2 oggi_in_aula_31.txt' - prosumer
+'B2 oggi_in_aula_61.txt' - co
+'C1 oggi_in_aula_67.txt' - crozze
+'C1 oggi_in_aula_67.txt' - morticeddi
+'C1 oggi_in_aula_67.txt' - mortu
+'C1 oggi_in_aula_67.txt' - ri
+'C2 oggi_in_aula_55.txt' - opinion
+'C2 oggi_in_aula_55.txt' - russologo
+'C2 oggi_in_aula_55.txt' - Ėjzenštejn
+'celi 1 2018.txt' - giorgio
+'celi 3 2017.txt' - salgàr
+'celi 4 2009.txt' - brocanteurs
+'celi 4 2009.txt' - cuisinières
+'celi 4 2009.txt' - les
+'celi 4 2017.txt' - arbëresh
+'celi 4 2017.txt' - arbëreshë
+'celi 4 2017.txt' - arbërisht
+'celi 4 2017.txt' - germanese
+'celi 4 2017.txt' - germanesi
+'celi 5 2009.txt' - stocfisi
+'celi 5 2009.txt' - Å
+'cils a2 2012 2.txt' - it
+'cils a2 integrazione 2013.txt' - it
+'cils b1 adolescenti 2 2012.txt' - palacreberg
+'cils b1 adolescenti 2 2012.txt' - to
+'cils b2 2005.txt' - dadaDams
+'cils c1 2000.txt' - informaticus
+'cils c1 2000.txt' - informazionale
+'cils c1 2000.txt' - of
+'cils c1 2002 2.txt' - elaiotecnia
+'cils c1 2009.txt' - quattromilioniottocentomila
+'cils c1 2009.txt' - vadis
+'cils c1 2011.txt' - grelina
+'cils c1 2011.txt' - of
+'cils c1 2013.txt' - competition
+'cils c1 2013.txt' - trial
+'cils c2 2002.txt' - com
+'cils c2 2009.txt' - it
+'cils c2 2010.txt' - connessionistici
+'cils c2 2010.txt' - giocologo
+'cils c2 2012.txt' - von
+'cils c2 2013 2.txt' - home
+'cils c2 2013 2.txt' - of
