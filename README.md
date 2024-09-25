@@ -4,8 +4,6 @@ It's language-agnostic, so it works with most languages.
 
 It's based on the assumption that we can use the relative frequency of word endings to determine the complexity of a text. For example in Italian, endings like "-o, -i, -are" are more frequent in beginner levels, while endings like "-eranno, -issero, -zialità" are more frequent in advanced levels. The training script creates a list of endings and assigns a relative frequency value to each of them based on how many times they appear in the corpus files. Then, when you want to evaluate the CEFR level of a text, the classifying function will weight the probability of each level according to the endings in the given text.
 
-[TOC]
-
 # How to use
 
 Clone this repository and put it in a subfolder of your project.
