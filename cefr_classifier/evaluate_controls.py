@@ -17,6 +17,22 @@ def _guess_level_from_file_name(file_name: str) -> str:
             return level
     raise Exception("Level not found")
 
+def _distance_between_levels(lev1: str, lev2: str) -> int:
+    equivalence_dict = {
+        'A1': 1,
+        'A2': 2,
+        'B1': 3,
+        'B2': 4,
+        'C1': 5,
+        'C2': 6
+    }
+
+    num1 = equivalence_dict[lev1]
+    num2 = equivalence_dict[lev2]
+
+    return abs(num1-num2)
+
+
 def evaluate_controls():
 
     classifier = CEFRClassifier()
@@ -25,6 +41,7 @@ def evaluate_controls():
 
     count_evaluated = 0
     count_right = 0
+    count_dist_1_or_less = 0
 
     cartella_livello = os.path.join(PACKAGE_DIR, "assets", "CEFR_controls")
     nomi_files = os.listdir(
@@ -55,9 +72,16 @@ def evaluate_controls():
                     count_right += 1
                 else:
                     upc.print_color(level_from_classifier + " " + nome_file, "red")
+
+                if _distance_between_levels(level_from_classifier, level_from_file_name) <= 1:
+                    count_dist_1_or_less += 1
+
                 #print(f"il livello è: {result}")
+
     percent_right = (count_right / count_evaluated) * 100
-    print("Rate of success: ", round(percent_right,2), "%")
+    print("Exact match rate: ", round(percent_right,2), "%")
+    percent_right = (count_dist_1_or_less / count_evaluated) * 100
+    print("Rate of guess within a distance of 1 (e.g. file was B1, but detected as B2): ", round(percent_right,2), "%")
 
 
 if __name__ == "__main__":
